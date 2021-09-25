@@ -1,1 +1,2 @@
-web: gunicorn runp-heroku:hello
+web: gunicorn app:app
+heroku ps:scale web
