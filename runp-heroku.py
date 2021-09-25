@@ -1,2 +1,2 @@
 #!python
-from app import app
+from hello import app
