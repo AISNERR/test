@@ -1,2 +1,2 @@
-web: gunicorn app:app
+web: gunicorn hello:hello
 heroku ps:scale web
