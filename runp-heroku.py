@@ -1,2 +1,2 @@
 #!python
-from hello import hello
+from index import index
