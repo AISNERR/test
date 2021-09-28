@@ -1,2 +1,2 @@
 #!python
-from index import index
+from app import index
